@@ -6,8 +6,8 @@
 		"poblacion":"81.305.856",
 		"superficie":"357.022",
 		"moneda":"Euro",
-		"PIB-capita":"38.400",
-		"parlamento-eu":"96"
+		"pib":"38.400",
+		"parlamentarios":"96"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/20px-Flag_of_Austria.svg.png",
@@ -16,8 +16,8 @@
 		"poblacion":"8.219.743",
 		"superficie":"83.871",
 		"moneda":"Euro",
-		"PIB-capita":"42.400",
-		"parlamento-eu":"19"
+		"pib":"42.400",
+		"parlamentarios":"19"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/20px-Flag_of_Belgium.svg.png",
@@ -26,8 +26,8 @@
 		"poblacion":"10.438.353",
 		"superficie":"30.528",
 		"moneda":"Euro",
-		"PIB-capita":"38.200",
-		"parlamento-eu":"22"
+		"pib":"38.200",
+		"parlamentarios":"22"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/20px-Flag_of_Bulgaria.svg.png",
@@ -36,8 +36,8 @@
 		"poblacion":"7.037.935",
 		"superficie":"110.879",
 		"moneda":"Lev",
-		"PIB-capita":"13.800",
-		"parlamento-eu":"18"
+		"pib":"13.800",
+		"parlamentarios":"18"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/20px-Flag_of_Cyprus.svg.png",
@@ -46,8 +46,8 @@
 		"poblacion":"1.138.071",
 		"superficie":"9.251",
 		"moneda":"Euro",
-		"PIB-capita":"29.400",
-		"parlamento-eu":"6"
+		"pib":"29.400",
+		"parlamentarios":"6"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png",
@@ -56,8 +56,8 @@
 		"poblacion":"4.290.612",
 		"superficie":"56.542",
 		"moneda":"Kuna",
-		"PIB-capita":"18.100",
-		"parlamento-eu":"12"
+		"pib":"18.100",
+		"parlamentarios":"12"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
@@ -66,8 +66,8 @@
 		"poblacion":"5.543.453",
 		"superficie":"43.094",
 		"moneda":"Corona danesa",
-		"PIB-capita":"37.600",
-		"parlamento-eu":"13"
+		"pib":"37.600",
+		"parlamentarios":"13"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/20px-Flag_of_Slovakia.svg.png",
@@ -76,8 +76,8 @@
 		"poblacion":"5.483.088",
 		"superficie":"49.035",
 		"moneda":"Euro",
-		"PIB-capita":"23.600",
-		"parlamento-eu":"13"
+		"pib":"23.600",
+		"parlamentarios":"13"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/20px-Flag_of_Slovenia.svg.png",
@@ -86,8 +86,8 @@
 		"poblacion":"1.996.617",
 		"superficie":"20.273",
 		"moneda":"Euro",
-		"PIB-capita":"29.000",
-		"parlamento-eu":"8"
+		"pib":"29.000",
+		"parlamentarios":"8"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png",
@@ -96,8 +96,8 @@
 		"poblacion":"47.042.984",
 		"superficie":"505.370",
 		"moneda":"Euro",
-		"PIB-capita":"31.000",
-		"parlamento-eu":"54"
+		"pib":"31.000",
+		"parlamentarios":"54"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/20px-Flag_of_Estonia.svg.png",
@@ -106,8 +106,8 @@
 		"poblacion":"1.274.709",
 		"superficie":"45.228",
 		"moneda":"Euro",
-		"PIB-capita":"20.600",
-		"parlamento-eu":"6"
+		"pib":"20.600",
+		"parlamentarios":"6"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/20px-Flag_of_Finland.svg.png",
@@ -116,8 +116,8 @@
 		"poblacion":"5.262.930",
 		"superficie":"338.145",
 		"moneda":"Euro",
-		"PIB-capita":"36.700",
-		"parlamento-eu":"13"
+		"pib":"36.700",
+		"parlamentarios":"13"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png",
@@ -126,8 +126,8 @@
 		"poblacion":"65.630.692",
 		"superficie":"643.801",
 		"moneda":"Euro",
-		"PIB-capita":"35.600",
-		"parlamento-eu":"74"
+		"pib":"35.600",
+		"parlamentarios":"74"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png",
@@ -136,8 +136,8 @@
 		"poblacion":"10.767.827",
 		"superficie":"131.957",
 		"moneda":"Euro",
-		"PIB-capita":"26.600",
-		"parlamento-eu":"22"
+		"pib":"26.600",
+		"parlamentarios":"22"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/20px-Flag_of_Hungary.svg.png",
@@ -146,8 +146,8 @@
 		"poblacion":"9.958.453",
 		"superficie":"93.028",
 		"moneda":"Florín húngaro",
-		"PIB-capita":"19.800",
-		"parlamento-eu":"22"
+		"pib":"19.800",
+		"parlamentarios":"22"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png",
@@ -156,8 +156,8 @@
 		"poblacion":"4.722.028",
 		"superficie":"70.273",
 		"moneda":"Euro",
-		"PIB-capita":"40.100",
-		"parlamento-eu":"12"
+		"pib":"40.100",
+		"parlamentarios":"12"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png",
@@ -166,8 +166,8 @@
 		"poblacion":"61.261.254",
 		"superficie":"301.340",
 		"moneda":"Euro",
-		"PIB-capita":"30.900",
-		"parlamento-eu":"73"
+		"pib":"30.900",
+		"parlamentarios":"73"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/20px-Flag_of_Latvia.svg.png",
@@ -176,8 +176,8 @@
 		"poblacion":"2.191.580",
 		"superficie":"64.589",
 		"moneda":"Euro",
-		"PIB-capita":"15.900",
-		"parlamento-eu":"9"
+		"pib":"15.900",
+		"parlamentarios":"9"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/20px-Flag_of_Lithuania.svg.png",
@@ -186,8 +186,8 @@
 		"poblacion":"3.525.761",
 		"superficie":"65.300",
 		"moneda":"Euro",
-		"PIB-capita":"19.100",
-		"parlamento-eu":"12"
+		"pib":"19.100",
+		"parlamentarios":"12"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/20px-Flag_of_Luxembourg.svg.png",
@@ -196,8 +196,8 @@
 		"poblacion":"509.074",
 		"superficie":"2.586",
 		"moneda":"Euro",
-		"PIB-capita":"81.100",
-		"parlamento-eu":"6"
+		"pib":"81.100",
+		"parlamentarios":"6"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/20px-Flag_of_Malta.svg.png",
@@ -206,8 +206,8 @@
 		"poblacion":"409.836",
 		"superficie":"316",
 		"moneda":"Euro",
-		"PIB-capita":"25.800",
-		"parlamento-eu":"6"
+		"pib":"25.800",
+		"parlamentarios":"6"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png",
@@ -216,8 +216,8 @@
 		"poblacion":"16.730.632",
 		"superficie":"41.543",
 		"moneda":"Euro",
-		"PIB-capita":"42.700",
-		"parlamento-eu":"26"
+		"pib":"42.700",
+		"parlamentarios":"26"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/20px-Flag_of_Poland.svg.png",
@@ -226,8 +226,8 @@
 		"poblacion":"38.415.284",
 		"superficie":"312.685",
 		"moneda":"Złoty",
-		"PIB-capita":"20.600",
-		"parlamento-eu":"51"
+		"pib":"20.600",
+		"parlamentarios":"51"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png",
@@ -236,8 +236,8 @@
 		"poblacion":"10.781.459",
 		"superficie":"92.090",
 		"moneda":"Euro",
-		"PIB-capita":"23.700",
-		"parlamento-eu":"22"
+		"pib":"23.700",
+		"parlamentarios":"22"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png",
@@ -246,8 +246,8 @@
 		"poblacion":"65.217.975",
 		"superficie":"243.610",
 		"moneda":"Libra esterlina",
-		"PIB-capita":"42.514",
-		"parlamento-eu":"73"
+		"pib":"42.514",
+		"parlamentarios":"73"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/20px-Flag_of_the_Czech_Republic.svg.png",
@@ -256,8 +256,8 @@
 		"poblacion":"10.177.300",
 		"superficie":"78.867",
 		"moneda":"Corona checa",
-		"PIB-capita":"27.400",
-		"parlamento-eu":"22"
+		"pib":"27.400",
+		"parlamentarios":"22"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/20px-Flag_of_Romania.svg.png",
@@ -266,8 +266,8 @@
 		"poblacion":"21.848.504",
 		"superficie":"238.391",
 		"moneda":"Leu rumano",
-		"PIB-capita":"12.600",
-		"parlamento-eu":"33"
+		"pib":"12.600",
+		"parlamentarios":"33"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/20px-Flag_of_Sweden.svg.png",
@@ -276,7 +276,7 @@
 		"poblacion":"9.103.788",
 		"superficie":"450.295",
 		"moneda":"Corona sueca",
-		"PIB-capita":"40.900",
-		"parlamento-eu":"20"
+		"pib":"40.900",
+		"parlamentarios":"20"
 	}
 ]}
