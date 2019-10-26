@@ -6,6 +6,8 @@
 		"poblacion":"81.305.856",
 		"superficie":"357.022",
 		"moneda":"Euro",
+		"PIB per capita":"38.400",
+		"parlamento-eu":"96"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/20px-Flag_of_Austria.svg.png",
@@ -15,7 +17,9 @@
 		"superficie":"83.871",
 		"moneda":"Euro",
 		"PIB per capita":"42.400",
+		"parlamento-eu":"19"
 	},
+	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/20px-Flag_of_Belgium.svg.png",
 		"nombre":"Bélgica",
 		"codigo":"BE",
@@ -24,8 +28,10 @@
 		"moneda":"Euro",
 		"PIB per capita":"38.200",
 		"parlamento-eu":"22"
+	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/20px-Flag_of_Bulgaria.svg.png",
+		"nombre":"Bulgaria",
 		"codigo":"BG",
 		"poblacion":"7.037.935",
 		"superficie":"110.879",
@@ -33,42 +39,51 @@
 		"PIB per capita":"13.800",
 		"parlamento-eu":"18"
 	},
+	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/20px-Flag_of_Cyprus.svg.png",
 		"nombre":"Chipre",
 		"codigo":"CY",
+		"poblacion":"1.138.071",
 		"superficie":"9.251",
 		"moneda":"Euro",
 		"PIB per capita":"29.400",
 		"parlamento-eu":"6"
 	},
 	{
+		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png",
 		"nombre":"Croacia",
 		"codigo":"HR",
 		"poblacion":"4.290.612",
 		"superficie":"56.542",
+		"moneda":"Kuna",
 		"PIB per capita":"18.100",
 		"parlamento-eu":"12"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+		"nombre":"Dinamarca",
 		"codigo":"DK",
 		"poblacion":"5.543.453",
 		"superficie":"43.094",
 		"moneda":"Corona danesa",
 		"PIB per capita":"37.600",
+		"parlamento-eu":"13"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/20px-Flag_of_Slovakia.svg.png",
 		"nombre":"Eslovaquia",
+		"codigo":"SK",
 		"poblacion":"5.483.088",
 		"superficie":"49.035",
 		"moneda":"Euro",
 		"PIB per capita":"23.600",
 		"parlamento-eu":"13"
 	},
+	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/20px-Flag_of_Slovenia.svg.png",
 		"nombre":"Eslovenia",
 		"codigo":"SI",
+		"poblacion":"1.996.617",
 		"superficie":"20.273",
 		"moneda":"Euro",
 		"PIB per capita":"29.000",
@@ -76,8 +91,10 @@
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png",
+		"nombre":"España",
 		"codigo":"ES",
 		"poblacion":"47.042.984",
+		"superficie":"505.370",
 		"moneda":"Euro",
 		"PIB per capita":"31.000",
 		"parlamento-eu":"54"
@@ -86,7 +103,9 @@
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/20px-Flag_of_Estonia.svg.png",
 		"nombre":"Estonia",
 		"codigo":"EE",
+		"poblacion":"1.274.709",
 		"superficie":"45.228",
+		"moneda":"Euro",
 		"PIB per capita":"20.600",
 		"parlamento-eu":"6"
 	},
@@ -96,6 +115,8 @@
 		"codigo":"FI",
 		"poblacion":"5.262.930",
 		"superficie":"338.145",
+		"moneda":"Euro",
+		"PIB per capita":"36.700",
 		"parlamento-eu":"13"
 	},
 	{
@@ -106,6 +127,8 @@
 		"superficie":"643.801",
 		"moneda":"Euro",
 		"PIB per capita":"35.600",
+		"parlamento-eu":"74"
+	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png",
 		"nombre":"Grecia",
@@ -115,7 +138,9 @@
 		"moneda":"Euro",
 		"PIB per capita":"26.600",
 		"parlamento-eu":"22"
+	},
 	{
+		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/20px-Flag_of_Hungary.svg.png",
 		"nombre":"Hungría",
 		"codigo":"HU",
 		"poblacion":"9.958.453",
@@ -124,8 +149,10 @@
 		"PIB per capita":"19.800",
 		"parlamento-eu":"22"
 	},
+	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png",
 		"nombre":"Irlanda",
+		"codigo":"IE",
 		"poblacion":"4.722.028",
 		"superficie":"70.273",
 		"moneda":"Euro",
@@ -133,42 +160,51 @@
 		"parlamento-eu":"12"
 	},
 	{
+		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png",
 		"nombre":"Italia",
 		"codigo":"IT",
 		"poblacion":"61.261.254",
+		"superficie":"301.340",
 		"moneda":"Euro",
 		"PIB per capita":"30.900",
 		"parlamento-eu":"73"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/20px-Flag_of_Latvia.svg.png",
+		"nombre":"Letonia",
 		"codigo":"LV",
 		"poblacion":"2.191.580",
 		"superficie":"64.589",
 		"moneda":"Euro",
+		"PIB per capita":"15.900",
 		"parlamento-eu":"9"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/20px-Flag_of_Lithuania.svg.png",
 		"nombre":"Lituania",
+		"codigo":"LT",
 		"poblacion":"3.525.761",
 		"superficie":"65.300",
 		"moneda":"Euro",
 		"PIB per capita":"19.100",
 		"parlamento-eu":"12"
+	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/20px-Flag_of_Luxembourg.svg.png",
 		"escudo":"Luxemburgo",
 		"nombre":"LU",
+		"poblacion":"509.074",
 		"superficie":"2.586",
 		"moneda":"Euro",
 		"PIB per capita":"81.100",
 		"parlamento-eu":"6"
 	},
 	{
+		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/20px-Flag_of_Malta.svg.png",
 		"nombre":"Malta",
 		"codigo":"MT",
 		"poblacion":"409.836",
+		"superficie":"316",
 		"moneda":"Euro",
 		"PIB per capita":"25.800",
 		"parlamento-eu":"6"
@@ -176,8 +212,10 @@
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png",
 		"nombre":"Países.Bajos",
+		"codigo":"NL",
 		"poblacion":"16.730.632",
 		"superficie":"41.543",
+		"moneda":"Euro",
 		"PIB per capita":"42.700",
 		"parlamento-eu":"26"
 	},
@@ -186,7 +224,9 @@
 		"nombre":"Polonia",
 		"codigo":"PL",
 		"poblacion":"38.415.284",
+		"superficie":"312.685",
 		"moneda":"Złoty",
+		"PIB per capita":"20.600",
 		"parlamento-eu":"51"
 	},
 	{
@@ -196,6 +236,8 @@
 		"poblacion":"10.781.459",
 		"superficie":"92.090",
 		"moneda":"Euro",
+		"PIB per capita":"23.700",
+		"parlamento-eu":"22"
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png",
@@ -206,6 +248,8 @@
 		"moneda":"Libra esterlina",
 		"PIB per capita":"42.514",
 		"parlamento-eu":"73"
+	},
+	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/20px-Flag_of_the_Czech_Republic.svg.png",
 		"nombre":"República.Checa",
 		"codigo":"CZ",
@@ -215,7 +259,9 @@
 		"PIB per capita":"27.400",
 		"parlamento-eu":"22"
 	},
+	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/20px-Flag_of_Romania.svg.png",
+		"nombre":"Rumanía",
 		"codigo":"RO",
 		"poblacion":"21.848.504",
 		"superficie":"238.391",
@@ -224,8 +270,10 @@
 		"parlamento-eu":"33"
 	},
 	{
+		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/20px-Flag_of_Sweden.svg.png",
 		"nombre":"Suecia",
 		"codigo":"SE",
+		"poblacion":"9.103.788",
 		"superficie":"450.295",
 		"moneda":"Corona sueca",
 		"PIB per capita":"40.900",
