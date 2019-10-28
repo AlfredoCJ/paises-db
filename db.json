@@ -211,7 +211,7 @@
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png",
-		"nombre":"Países.Bajos",
+		"nombre":"Países Bajos",
 		"codigo":"NL",
 		"poblacion":"16.730.632",
 		"superficie":"41.543",
@@ -241,7 +241,7 @@
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png",
-		"nombre":"Reino.Unido",
+		"nombre":"Reino Unido",
 		"codigo":"UK",
 		"poblacion":"65.217.975",
 		"superficie":"243.610",
@@ -251,7 +251,7 @@
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/20px-Flag_of_the_Czech_Republic.svg.png",
-		"nombre":"República.Checa",
+		"nombre":"República Checa",
 		"codigo":"CZ",
 		"poblacion":"10.177.300",
 		"superficie":"78.867",
