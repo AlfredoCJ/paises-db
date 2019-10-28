@@ -191,8 +191,8 @@
 	},
 	{
 		"bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/20px-Flag_of_Luxembourg.svg.png",
-		"escudo":"Luxemburgo",
-		"nombre":"LU",
+		"nombre":"Luxemburgo",
+		"codigo":"LU",
 		"poblacion":"509.074",
 		"superficie":"2.586",
 		"moneda":"Euro",
